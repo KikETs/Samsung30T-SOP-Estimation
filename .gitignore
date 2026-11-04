@@ -1,0 +1,41 @@
+# data (RPCWBY dataset and copies)
+raw/
+*.zip
+*.xlsx
+*.mat
+
+# generated results and caches
+*.csv
+*.json
+*.npz
+*.npy
+*.parquet
+*.pt
+*.pkl
+*.log
+*.sha256
+cache/
+results/
+out/
+tmp/
+
+# figure and table outputs
+*.pdf
+*.png
+*.svg
+*.tex
+
+# firmware builds
+Build/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+*.su
+
+# Python
+__pycache__/
+*.pyc

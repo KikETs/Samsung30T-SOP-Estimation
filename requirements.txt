@@ -1,0 +1,14 @@
+numpy>=2.0
+pandas
+scipy
+matplotlib
+torch
+scikit-learn
+joblib
+openpyxl
+pyserial
+PyMuPDF
+Pillow
+cairosvg
+fonttools
+requests
